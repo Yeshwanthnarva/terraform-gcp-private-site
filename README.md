@@ -34,3 +34,19 @@ terraform-gcp-private-site/
 │── terraform.tfstate.backup # Terraform backup state file (excluded from Git)
 🚀 Future Improvements
 🔹 Automate deployments with CI/CD 🔹 Enhance security policies for private access 🔹 Monitor resource usage effectively
+## 📸 Screenshots  
+
+### Repository Structure  
+![Repository Overview](https://github.com/Yeshwanthnarva/terraform-gcp-private-site/blob/main/t1.jpg)  
+
+### Terraform Execution  
+![Terraform Apply](https://github.com/Yeshwanthnarva/terraform-gcp-private-site/blob/main/t2.jpg)  
+
+### `.gitignore` Verification  
+![Git Ignore Check](https://github.com/Yeshwanthnarva/terraform-gcp-private-site/blob/main/t3.jpg)  
+
+### Google Cloud Console  
+![Google Cloud Bucket](https://github.com/Yeshwanthnarva/terraform-gcp-private-site/blob/main/t4.jpg)  
+
+### Private Website Verification  
+![Private Site Access](https://github.com/Yeshwanthnarva/terraform-gcp-private-site/blob/main/t5.jpg)  
