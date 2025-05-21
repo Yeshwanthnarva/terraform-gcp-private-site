@@ -1,0 +1,7 @@
+gcp-private-static-site/
+gcp-private-static-site-clean/
+alert-weaver-456505-p4-dbba0a4af57c.json
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+
