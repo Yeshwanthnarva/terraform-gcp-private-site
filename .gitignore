@@ -1,7 +1,19 @@
-gcp-private-static-site/
-gcp-private-static-site-clean/
-alert-weaver-456505-p4-dbba0a4af57c.json
-.terraform/
+# Ignore Terraform state files
 terraform.tfstate
 terraform.tfstate.backup
+.terraform/
+
+# Ignore Google Cloud credentials
+alert-weaver-456505-p4-dbba0a4af57c.json
+
+# Ignore Terraform lock file
+.terraform.lock.hcl
+
+# Ignore any `.tfvars` files if they contain sensitive variables
+*.tfvars
+
+# Ignore Git-related submodule remnants
+gcp-private-static-site/
+gcp-private-static-site-clean/
+
 
